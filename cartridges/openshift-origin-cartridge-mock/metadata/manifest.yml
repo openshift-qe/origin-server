@@ -10,9 +10,9 @@ Versions:
 - '0.3'
 - '0.4'
 License: ASL 2.0
-Vendor: Red Hat
+Vendor: Roga I Kopyta
 Cartridge-Version: 0.0.1
-Cartridge-Vendor: redhat
+Cartridge-Vendor: rogaikopyta
 Categories:
 - service
 - mock
